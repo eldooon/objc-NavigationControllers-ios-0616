@@ -10,6 +10,7 @@
 
 @implementation TeamMember
 
+//THIS IS ACTUALLY NOT REQUIRED
 -(instancetype)init{
     return self = [self initWithName:@"No Name"];
 }

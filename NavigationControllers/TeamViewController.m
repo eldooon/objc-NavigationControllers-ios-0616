@@ -40,6 +40,9 @@
         al.favoriteBand = @"The Beatles";
         
         teamDVC.teamMember = al;
+        
+//Why doesn't this work?
+//        teamDVC.teamMember.name = @"Al";
 
     }
     
